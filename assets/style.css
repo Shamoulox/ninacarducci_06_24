@@ -348,3 +348,22 @@ h2.title {
   padding-block: 2em;
   font-size: 30px;
 }
+
+footer {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  color: black;
+}
+
+footer h2 {
+  color: black;
+}
+
+footer address {
+  text-align: center;
+      margin: 20px;
+}
